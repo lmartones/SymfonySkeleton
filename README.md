@@ -1,0 +1,2 @@
+# SymfonySkeleton
+Default Symfony Project
